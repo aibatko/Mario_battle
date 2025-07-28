@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background: linear-gradient(#87ceeb, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+#game {
+    width: 800px;
+    height: 480px;
+    border: 4px solid #000;
+    background: #5c94fc;
+}
